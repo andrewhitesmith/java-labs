@@ -1,0 +1,292 @@
+{
+  "name": "Test University",
+  "head": {
+    "type": "Student",
+    "firstName": "Ректор",
+    "lastName": "Тестовий",
+    "middleName": "Іванович",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "Факультет 1",
+      "head": {
+        "type": "Student",
+        "firstName": "Декан",
+        "lastName": "Ф1",
+        "middleName": "М",
+        "sex": "FEMALE"
+      },
+      "departments": [
+        {
+          "name": "Кафедра 1",
+          "head": {
+            "type": "Student",
+            "firstName": "Завкафедри",
+            "lastName": "Д1",
+            "middleName": "І",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Група 1",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г1",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Група 2",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г2",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Кафедра 2",
+          "head": {
+            "type": "Student",
+            "firstName": "Завкафедри",
+            "lastName": "Д2",
+            "middleName": "І",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Група 1",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г1",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Група 2",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г2",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Факультет 2",
+      "head": {
+        "type": "Student",
+        "firstName": "Декан",
+        "lastName": "Ф2",
+        "middleName": "М",
+        "sex": "FEMALE"
+      },
+      "departments": [
+        {
+          "name": "Кафедра 1",
+          "head": {
+            "type": "Student",
+            "firstName": "Завкафедри",
+            "lastName": "Д1",
+            "middleName": "І",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Група 1",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г1",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Група 2",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г2",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Кафедра 2",
+          "head": {
+            "type": "Student",
+            "firstName": "Завкафедри",
+            "lastName": "Д2",
+            "middleName": "І",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Група 1",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г1",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Група 2",
+              "head": {
+                "type": "Student",
+                "firstName": "Куратор",
+                "lastName": "Г2",
+                "middleName": "О",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "type": "Student",
+                  "firstName": "Студент1",
+                  "lastName": "Прізвище1",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                },
+                {
+                  "type": "Student",
+                  "firstName": "Студент2",
+                  "lastName": "Прізвище2",
+                  "middleName": "Батькович",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
